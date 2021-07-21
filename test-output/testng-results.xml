@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T10:59:25 CEST" name="Default suite" finished-at="2021-07-09T10:59:36 CEST" duration-ms="11331">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T10:59:25 CEST" name="Default test" finished-at="2021-07-09T10:59:36 CEST" duration-ms="11331">
+      <class name="sign.ScreenTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sign.ScreenTest@36c88a32]" started-at="2021-07-09T10:59:25 CEST" name="setUp" finished-at="2021-07-09T10:59:35 CEST" duration-ms="10247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:sign.ScreenTest@36c88a32]" started-at="2021-07-09T10:59:35 CEST" name="goHome" finished-at="2021-07-09T10:59:36 CEST" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testScreenSh()[pri:0, instance:sign.ScreenTest@36c88a32]" started-at="2021-07-09T10:59:36 CEST" name="testScreenSh" finished-at="2021-07-09T10:59:36 CEST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScreenSh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sign.ScreenTest@36c88a32]" started-at="2021-07-09T10:59:36 CEST" name="tearDown" finished-at="2021-07-09T10:59:36 CEST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sign.ScreenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
